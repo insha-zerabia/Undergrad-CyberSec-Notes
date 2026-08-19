@@ -10,3 +10,8 @@
 - x86 Assembly guide (Yale CS)
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
+# For Cyber
+- TryHackMe
+- PortSwigger Web Security Academy
+- OverTheWire (Bandit wargame)
+- Cisco's "Introduction to Cybersecurity"
