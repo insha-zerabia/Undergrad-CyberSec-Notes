@@ -7,4 +7,6 @@
 - Codeforces
 - GeeksforGeeks
 # COAL
-- 
+- x86 Assembly guide (Yale CS)
+- godbolt.org (Compiler Explorer)
+- OSDev wiki
