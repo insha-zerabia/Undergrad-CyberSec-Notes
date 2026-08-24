@@ -11,6 +11,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
+- Microsoft Learn
 - KC7  (https://kc7cyber.com/)
 - Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
