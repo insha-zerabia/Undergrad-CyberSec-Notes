@@ -11,6 +11,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
+- Security Blue Team
 - TryHackMe
 - PortSwigger Web Security Academy
 - OverTheWire (Bandit wargame)
