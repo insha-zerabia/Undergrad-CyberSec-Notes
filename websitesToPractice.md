@@ -12,6 +12,7 @@
 - OSDev wiki
 # For Cyber
 - Security Blue Team
+- https://skillbuilder.aws/
 - TryHackMe
 - PortSwigger Web Security Academy
 - OverTheWire (Bandit wargame)
