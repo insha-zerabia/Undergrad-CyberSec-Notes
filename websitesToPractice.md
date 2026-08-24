@@ -14,7 +14,7 @@
 - Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
 - The Cyber Mentor Academy (https://academy.tcm-sec.com/)
-- Splunk Free Training Course 
+- Splunk Free Training Course (https://www.splunk.com/en_us/training/free-courses/overview.html)
 - TryHackMe
 - PortSwigger Web Security Academy
 - OverTheWire (Bandit wargame)
