@@ -11,7 +11,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
-- Security Blue Team
+- Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
 - TryHackMe
 - PortSwigger Web Security Academy
