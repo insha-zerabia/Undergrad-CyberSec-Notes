@@ -12,7 +12,7 @@
 - OSDev wiki
 # For Cyber
 - Microsoft Learn
-- aws Skill Builder
+- AWS Skill Builder
 - KC7  (https://kc7cyber.com/)
 - Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
