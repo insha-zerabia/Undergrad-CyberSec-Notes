@@ -11,6 +11,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
+- KC7
 - Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
 - The Cyber Mentor Academy (https://academy.tcm-sec.com/)
