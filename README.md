@@ -6,17 +6,17 @@ As the **pioneering batch (Batch '25)** of this degree at our campus, we are est
 
 ---
 
-## 🗺️ Academic Progression & Guidance
+## Academic Progression & Guidance
 
 Our academic curriculum builds core computing foundations before diving deep into security engineering. Below is what to focus on during your first few semesters:
 
-* **Semester 1:** Focus heavily on **Programming Fundamentals (PF)**. Build logical thinking and master syntax.
-* **Semester 2:** Transition into **Object-Oriented Programming (OOP)**. Understand design patterns and data structures early.
-* **Semester 3:** This is where our journey officially begins with the foundational **Introduction to Cybersecurity** course. Use this semester to transition from basic computing to security concepts.
+* **Semester 1:** Focus heavily on **Programming Fundamentals (PF)**.
+* **Semester 2:** Transition into **Object-Oriented Programming (OOP)**. 
+* **Semester 3:** Finally the most awaiting thing will be introduced -> **Introduction to Cybersecurity** course. Use this semester to transition from basic computing to security concepts.
 
 ---
 
-## 🚀 Independent Curated Tracks
+## Independent Curated Tracks
 
 Because university courses build your academic foundation, real-world excellence requires practical, hands-on labs. We break our external study resources into three vital pillars:
 
