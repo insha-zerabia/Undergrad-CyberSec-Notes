@@ -13,7 +13,7 @@ Our academic curriculum builds core computing foundations before diving deep int
 * **Semester 1:** Focus heavily on **Programming Fundamentals (PF)**.
 * **Semester 2:** Transition into **Object-Oriented Programming (OOP)**. 
 * **Semester 3:** Finally the most awaiting thing will be introduced -> **Introduction to Cybersecurity** course. Use this semester to transition from basic computing to security concepts.
-
+  
 ---
 
 ## Independent Curated Tracks
