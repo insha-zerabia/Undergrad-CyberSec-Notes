@@ -16,8 +16,6 @@ Our academic curriculum builds core computing foundations before diving deep int
   
 ---
 
-
-
 ## 🤝 Contribution Guidelines
 
 This repository is maintained by the students, for the students. If you are a senior with insights or a junior who found an invaluable resource:
