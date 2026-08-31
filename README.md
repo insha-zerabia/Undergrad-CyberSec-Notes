@@ -4,7 +4,7 @@ Welcome to the central knowledge hub for the **Bachelor of Science in Cybersecur
 
 As the **pioneering batch (Batch '25)** of this degree at our campus, we are establishing this repository to bridge the gap between academic theory and industry-grade practical engineering. This repository serves as an open-source, evolving roadmap to guide our journey and set a strong foundation for the incoming **Batch '26** and beyond.
 
----
+
 
 ## Academic Progression & Guidance
 
