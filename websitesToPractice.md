@@ -11,6 +11,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
+- PicoCTF 
 - Microsoft Learn
 - AWS Skill Builder
 - KC7  (https://kc7cyber.com/)
