@@ -11,5 +11,5 @@
 - David Bombal
 - Professor Messer
 - The Cyber Mentor
-- NetworkChuck
+- NetworkChuck (for learning networking, Linux, and basic Python scripting)
 - HackerSploit (for structured, comprehensive training on offensive and defensive security operations using virtual labs)
