@@ -12,3 +12,4 @@
 - Professor Messer
 - The Cyber Mentor
 - NetworkChuck
+- HackerSploit (for structured, comprehensive training on offensive and defensive security operations using virtual labs)
