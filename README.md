@@ -43,3 +43,4 @@ This repository is maintained by the students, for the students. If you are a se
 1. Fork this repository.
 2. Update the relevant `.md` file under a clear category.
 3. Submit a Pull Request with a short summary of why the resource is beneficial.
+
