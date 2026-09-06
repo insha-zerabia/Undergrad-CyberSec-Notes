@@ -7,6 +7,7 @@
 
 # For Cyber
 - John Hammond
+- Cyber Mind Space (For Practical ethical hacking, cybersecurity, and penetration testing )
 - LiveOverflow
 - David Bombal
 - Professor Messer
