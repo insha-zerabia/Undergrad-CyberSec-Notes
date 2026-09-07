@@ -6,6 +6,12 @@
 - LeetCode
 - Codeforces
 - GeeksforGeeks
+
+# FOR DSA SPECIALLY
+- dsavisualizer.in
+- algorithm-visualizer.org
+- structy.net
+
 # COAL
 - x86 Assembly guide (Yale CS)
 - godbolt.org (Compiler Explorer)
