@@ -9,9 +9,7 @@
 
 # FOR DSA SPECIALLY
 - csvistool.com
-- dsavisualizer.in
-- algorithm-visualizer.org
-- structy.net
+- visualgo.net
 
 # COAL
 - x86 Assembly guide (Yale CS)
