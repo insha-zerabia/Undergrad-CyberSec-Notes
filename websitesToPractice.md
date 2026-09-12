@@ -19,6 +19,7 @@
 # For Cyber
 - PicoCTF
 - Letsdefend.io (For SOC Analyst)
+- cyberdefenders.org (Blue Teamer)
 - Microsoft Learn
 - AWS Skill Builder
 - KC7  (https://kc7cyber.com/)
