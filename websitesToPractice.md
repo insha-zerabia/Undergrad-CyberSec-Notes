@@ -22,7 +22,7 @@
 - cyberdefenders.org (Blue Teamer)
 - Microsoft Learn
 - AWS Skill Builder
-- KC7  (https://kc7cyber.com/)
+- KC7  (https://kc7cyber.com/) specially for THREAT INTELLIGENCE 
 - Security Blue Team  (https://www.securityblue.team/training)
 - https://skillbuilder.aws/
 - The Cyber Mentor Academy (https://academy.tcm-sec.com/)
