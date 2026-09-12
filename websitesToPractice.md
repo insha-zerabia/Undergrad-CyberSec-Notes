@@ -17,7 +17,8 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
-- PicoCTF 
+- PicoCTF
+- Letsdefend.io (For SOC Analyst)
 - Microsoft Learn
 - AWS Skill Builder
 - KC7  (https://kc7cyber.com/)
