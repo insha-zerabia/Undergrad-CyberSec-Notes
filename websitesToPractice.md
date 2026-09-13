@@ -17,7 +17,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
-- TryHackMe
+- TryHackMe  (Beginner Friendly)
 - PicoCTF
 - Letsdefend.io (For SOC Analyst)
 - cyberdefenders.org (Blue Teamer)
