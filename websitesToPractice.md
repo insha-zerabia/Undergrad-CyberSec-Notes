@@ -28,7 +28,6 @@
 - https://skillbuilder.aws/
 - The Cyber Mentor Academy (https://academy.tcm-sec.com/)
 - Splunk Free Training Course (https://www.splunk.com/en_us/training/free-courses/overview.html)
-- TryHackMe
 - PortSwigger Web Security Academy
 - OverTheWire (Bandit wargame)
 - Cisco's "Introduction to Cybersecurity"
