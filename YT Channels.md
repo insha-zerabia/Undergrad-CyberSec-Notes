@@ -12,6 +12,9 @@
 - Cyb3rMaddy
 - CryptoKnight
 - Cyber Ryan | Cyber Security
+- LiveOverflow
+- David Bombal
+- Professor Messer
 - Cyber Mind Space (For Practical ethical hacking, cybersecurity, and penetration testing )
 - The Cyber Mentor (for practical, hands-on penetration testing, ethical hacking methodology, and Windows/Linux security)
 - NetworkChuck (for learning networking, Linux, and basic Python scripting)
