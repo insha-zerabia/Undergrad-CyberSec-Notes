@@ -8,6 +8,9 @@
 # For Cyber
 - John Hammond
 - MyDFIR
+- IppSec
+- Cyb3rMaddy
+- CryptoKnight
 - Cyber Ryan | Cyber Security
 - Cyber Mind Space (For Practical ethical hacking, cybersecurity, and penetration testing )
 - LiveOverflow
