@@ -3,3 +3,5 @@
 - Grey Hack
 - Elden Ring
 - Cyber ManHunt
+- bitburner
+- Uplink
