@@ -2,3 +2,4 @@
 - NITETeam (Two,NITE Team 4)
 - Grey Hack
 - Elden Ring
+- Cyber ManHunt
