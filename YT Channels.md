@@ -20,3 +20,4 @@
 - NetworkChuck (for learning networking, Linux, and basic Python scripting)
 - HackerSploit (for structured, comprehensive training on offensive and defensive security operations using virtual labs)
 ## Best Fundamental Resources 
+- CS50's Intro to Cyber
