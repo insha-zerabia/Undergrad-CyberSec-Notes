@@ -22,3 +22,4 @@
 ## Best Fundamental Resources 
 - CS50's Intro to Cyber
 - Hands-on Cybersecurity and Ethical Hacking - Full Course by YT Channel freeCodeCamp.org
+- Every Hacking Technique Explained in 18 Minutes by YT Channel Tech Explained
