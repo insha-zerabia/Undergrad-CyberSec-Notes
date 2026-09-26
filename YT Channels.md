@@ -21,3 +21,4 @@
 - HackerSploit (for structured, comprehensive training on offensive and defensive security operations using virtual labs)
 ## Best Fundamental Resources 
 - CS50's Intro to Cyber
+- Hands-on Cybersecurity and Ethical Hacking - Full Course by YT Channel freeCodeCamp.org
