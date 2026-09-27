@@ -1,2 +1,2 @@
 # LinkedIn Automation Tool
-- nivyasa
+- nivyasa (paid tool)
