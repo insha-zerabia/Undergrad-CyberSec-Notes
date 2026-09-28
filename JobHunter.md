@@ -2,4 +2,4 @@
 - HeyNavii
 
 # BugBounty web
--hackerone.com
+- hackerone.com
