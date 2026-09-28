@@ -18,6 +18,7 @@
 - OSDev wiki
 # For Cyber
 - TryHackMe  (Beginner Friendly)
+- Hacker101  (Learning purposes)
 - PicoCTF
 - Letsdefend.io (For SOC Analyst)
 - cyberdefenders.org (Blue Teamer)
