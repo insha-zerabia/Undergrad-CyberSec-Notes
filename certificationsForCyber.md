@@ -4,3 +4,10 @@
 - eJPT
 
 # Intermediate
+- OSCP
+- PNPT
+
+# Advanced
+- CRTO
+- OSEP
+- CISSP
