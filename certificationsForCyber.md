@@ -1,3 +1,4 @@
 # Beginner 
 - CEH
 - Security+
+- eJPT
