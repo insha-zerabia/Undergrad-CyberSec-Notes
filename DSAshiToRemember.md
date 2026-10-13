@@ -1,9 +1,11 @@
 # Iterator
 
-class Iterator {
+    class Iterator {
+
 			Node* ptr;
 			Iterator(Node* p): ptr(p) {}
-public:
+    public:
+
 			Iterator& operator++() {
 					ptr = ptr->next;
 					return *this;
@@ -35,4 +37,4 @@ public:
 					return Iterator(tail->next);
 			}
 
-};
+    };
