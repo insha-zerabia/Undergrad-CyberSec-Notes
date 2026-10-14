@@ -1,1 +1,49 @@
 
+#include<iostream>
+using namespace std;
+
+template<typename T>
+struct Node {
+		T data;
+		Node* left;
+		Node* right;
+
+		Node(T val) : data(val), left(nullptr), right(nullptr) {}
+};
+
+template<typename>
+class BST {
+		Node* root;
+		root = nullptr;
+
+		Node* insert(Node* root, T val) {
+				if (root == NULL) {
+						return new Node(val);
+				}
+
+				if (val < root->data) {
+						root->left = insert(root->left, val);
+				}
+
+				else {
+						root->right = insert(root->right, val);
+				}
+
+				return root;
+		}
+
+		bool seach(Node* root, T target) {
+				if (root == NULL) return false;
+
+				if (root->data == target) return true;
+
+				if (target < root->data)
+						return search(root->left, target);
+
+				else
+						return search(root->right, target);
+		}
+
+
+
+};
