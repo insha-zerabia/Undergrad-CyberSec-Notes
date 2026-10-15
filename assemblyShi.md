@@ -4,3 +4,6 @@
 this shi feels kinda basic now ..like ughh
 
 github is not showing and updating my contribution graph like dudee WHYY
+
+
+i could have make like 20 commit and its showing 1..like how embarassing
