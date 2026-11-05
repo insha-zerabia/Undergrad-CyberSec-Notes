@@ -1,4 +1,5 @@
-- https://www.intern-list.com/
+- https://jobright.ai/jobs/recommend
+-  https://www.intern-list.com/
 - HeyNavii
 
 # BugBounty web
