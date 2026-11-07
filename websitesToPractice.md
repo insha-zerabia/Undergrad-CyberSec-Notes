@@ -16,6 +16,7 @@
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
 # For Cyber
+- linuxjourney.com
 - TryHackMe  (Beginner Friendly)
 - Hacker101  (Learning purposes)
 - PicoCTF
