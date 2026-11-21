@@ -5,6 +5,8 @@
 # 1. Module Overview
 
 In the Computer Fundamentals module, I learned how a computer actually works on the inside, what different types of computers exist around us, and how they talk to each other over a network. Before jumping straight into hacking or defending systems, it is super important to understand the basics of the machine you are trying to protect. Through this module, I explored what happens the second we press the power button, how hardware parts like the power supply, motherboard firmware, and RAM work together, and why we have specialized machines like servers and smart devices instead of just laptops. I also learned how the internet works behind the scenes using the client-server model, IP addresses, DNS, and ports.
+
+
 For cybersecurity, learning these basics is essential because hackers don't just attack websites—they attack every part of a computer system. From sneaking malware into the startup process to hacking poorly protected smart home devices or spying on unencrypted web traffic, attackers look for weak spots at every level. Understanding how a normal computer boots up and communicates helps me spot when something looks suspicious and teaches me what parts of a system actually need protection.
 
 
