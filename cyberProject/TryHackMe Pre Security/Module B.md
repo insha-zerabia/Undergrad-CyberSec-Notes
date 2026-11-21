@@ -42,6 +42,26 @@ HTTP is the set of rules web browsers and servers use to talk to each other, and
 
 ##
 
+
+# 3. Practical Relevance (4 Real-World Examples)
+
+1. Troubleshooting Websites with Browser Developer Tools:
+In real life, web developers and IT support teams press F12 in browsers like Firefox or Chrome to open the Network tab. By looking at HTTP requests, they can check status codes (like 200 OK when a page loads fine, or 404 Not Found when a file is missing) to quickly figure out why a webpage is broken or loading slowly.
+
+
+2. Choosing the Right Hardware in an Office:
+Companies use computer classification concepts every day when buying equipment. For example, a video editing or 3D design studio will buy expensive workstations for their employees because they need high accuracy and zero crashes, while keeping servers with backup power supplies locked in a server room to store all the company's files safely.
+
+
+3. Fixing Internet Connection Issues Using DNS:
+When a company's employees suddenly can't open websites by typing their names (like google.com), network technicians test whether they can still reach the site using its raw IP address. If the IP works, they immediately know the problem is with the DNS server rather than the internet cable itself.
+
+
+4. Automating Factories and Smart Homes:
+Factories rely on embedded systems inside robotic arms to assemble products accurately for years without needing human clicks or internet access. Meanwhile, modern smart homes use IoT devices like Wi-Fi thermostats and security cameras that send live updates directly to the homeowner's smartphone.
+
+##
+
 # Room 1 - Inside a Computer System 
 <img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/a70c332c-4142-4ac4-9a56-7d88ada00260" />
 
