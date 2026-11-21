@@ -62,6 +62,30 @@ Factories rely on embedded systems inside robotic arms to assemble products accu
 
 ##
 
+
+# 4. Security Implications (5 Security Considerations)
+
+1. Startup Malware (Bootkits):
+Because the firmware (UEFI) and bootloader run before Windows and antivirus programs even turn on, advanced hackers try to infect this stage with malware called bootkits. To defend against this, users should keep Secure Boot turned on so the computer only loads trusted startup software.
+
+
+2. Easy-to-Hack Smart Devices (IoT Risks):
+Smart fridges, cameras, and doorbells connect to home Wi-Fi, giving hackers new ways to break into a network. Many people forget to change the default factory passwords on these devices, allowing attackers to take over the smart gadget and use it to spy on other computers on the same Wi-Fi.
+
+
+3. Data Theft on Unencrypted Websites (HTTP vs. HTTPS):
+If a website uses plain HTTP instead of HTTPS, all the data traveling between the client and server is sent in plain text. Anyone snooping on the same public Wi-Fi can read passwords, messages, or steal login cookies to hijack the user's account.
+
+
+4. Exposed Open Ports on Servers:
+Since ports are like doors into a server, leaving unnecessary ports open gives attackers more ways to sneak in. Security teams regularly scan their servers and use firewalls to lock any ports that aren't actively needed for business.
+
+
+5. DNS Spoofing (Fake Directions):
+Because computers blindly trust DNS to give them the right IP address, hackers sometimes try to tamper with DNS records to send users to a fake look-alike website instead of the real one (for example, a fake banking login page). Using secure, encrypted DNS helps prevent users from being tricked like this.
+
+##
+
 # Room 1 - Inside a Computer System 
 <img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/a70c332c-4142-4ac4-9a56-7d88ada00260" />
 
