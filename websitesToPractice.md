@@ -15,6 +15,12 @@
 - x86 Assembly guide (Yale CS)
 - godbolt.org (Compiler Explorer)
 - OSDev wiki
+
+# Websites to learn Cyber
+- PentestGPT (to learn ethical hacking)
+- classcentral.com  (search any uni to get their free courses)
+
+
 # For Cyber
 - linuxjourney.com
 - TryHackMe  (Beginner Friendly)
