@@ -35,7 +35,6 @@ void displayList(Node* arr[]) {
 						cout << temp->dest << " -> ";
 						temp = temp->next;
 				}
-				delete temp;
 				cout << "NULL \n";
 		}
 }
