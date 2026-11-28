@@ -60,6 +60,28 @@ When an employee downloads an unknown file or plugs in an external USB drive, se
 
 
 
+# 4. Security Implications (5 Security Considerations)
+
+1. Weak Passwords & Poor Password Habits:
+Using predictable passwords like 123456, abc123, dragon, or keyboard patterns like qwertyuiop makes it very easy for attackers to guess their way into an account. Writing passwords on sticky notes near a monitor is just as dangerous. Strong, unique passwords combined with multi-factor authentication (like a fingerprint or SMS code) are essential to prevent unauthorized logins.
+
+
+2. Credential Leaks in Terminal Command History:
+In Linux, the history command saves a list of previously typed commands. If a user accidentally types a sensitive password directly into the terminal prompt instead of a password field, anyone who later gains access to that user's account can run history and steal the root password.
+
+
+3. Privilege Escalation to root or Administrator:
+If a standard user account is compromised and the root or Administrator account is poorly protected, an attacker can use commands like su - root to take complete control of the operating system, disable security tools, and read confidential files across all user directories.
+
+
+4. Malicious Software (Trojans & Ransomware):
+Installing unverified .exe installers from the internet can infect a system with malware. Trojan horses secretly give attackers remote access to steal or modify data (breaking confidentiality and integrity), while ransomware encrypts a user's files and demands payment to restore access (destroying availability).
+
+
+5. Overly Permissive File Access:
+Leaving sensitive files readable or writable by all users on a shared computer violates the principle of least privilege. If an attacker compromises even a low-level guest or standard account, weak file permissions allow them to read private documents or tamper with important system configurations.
+
+
 ##
 
 # Room 1 - Operating Systems: Introduction
