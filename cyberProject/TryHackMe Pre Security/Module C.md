@@ -41,6 +41,25 @@ Windows includes native tools to monitor and protect the system without needing 
 
 
 
+# 3. Practical Relevance (4 Real-World Examples)
+
+1. Investigating Servers Quickly Using the Linux CLI:
+In real-world IT and cybersecurity jobs, most cloud and web servers do not have a graphical desktop (they are "headless"). System administrators connect remotely using SSH and run commands like uname -a, df -h, and whoami to check the server's OS version, available storage, and active permissions within seconds.
+
+
+2. Troubleshooting Slow Computers with Task Manager:
+When an office computer freezes or slows down, IT support technicians open Task Manager to inspect the Processes and Performance tabs. This lets them spot which background program is eating up 100% of the CPU or RAM and end that specific task without restarting the entire PC.
+
+
+3. Enforcing the Principle of Least Privilege in Companies:
+Organizations apply User Management and File Permissions so employees only have access to the folders they actually need for their job. For instance, the accounting team can edit payroll spreadsheets, while interns only have standard accounts and cannot install unapproved software or view confidential HR folders.
+
+
+4. Running Targeted Malware Scans on Suspicious Downloads:
+When an employee downloads an unknown file or plugs in an external USB drive, security analysts use Windows Security's Custom Scan feature to scan that specific folder immediately, catching test signatures or threats before they spread to the rest of the network.
+
+
+
 ##
 
 # Room 1 - Operating Systems: Introduction
