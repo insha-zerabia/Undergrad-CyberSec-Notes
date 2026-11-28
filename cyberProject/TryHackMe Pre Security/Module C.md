@@ -24,19 +24,16 @@ Modern operating systems divide permissions into two layers for safety. Kernel s
 A GUI lets users control the computer visually by clicking icons, folders, and menus (like Windows File Explorer). A CLI (like the Linux Terminal) lets users type exact text commands to control the system directly. Example: Using a GUI is like tapping a restaurant icon on Google Maps, while using the CLI is like typing in the exact GPS coordinates—it takes practice, but it is much faster and gives more control.
 
 
-4. Essential Linux Navigation & System Commands:
-In the Linux terminal, I learned core commands to move around and inspect the machine: pwd shows my current folder path, ls -al lists all files including hidden ones starting with a dot (.), cd changes folders, find searches for files across directories, cat reads text files, whoami shows the logged-in user, and df -h checks free disk space. Example: I used find ~ -name mission_brief.txt to locate a hidden file and cat to read the flag inside it.
 
-
-5. The CIA Triad (Confidentiality, Integrity, Availability):
+4. The CIA Triad (Confidentiality, Integrity, Availability):
 These are the three main goals of cybersecurity. Confidentiality keeps private data secret from unauthorized people, Integrity ensures nobody tampers with or alters files, and Availability makes sure systems and data are accessible whenever needed. Example: Putting a strong password on my laptop protects confidentiality, while backups ensure availability if my hard drive fails.
 
 
-6. Privilege Levels & Superuser Accounts (Administrator vs. root):
+5. Privilege Levels & Superuser Accounts (Administrator vs. root):
 Operating systems use different account levels to limit what users can change. A Standard account can only do daily tasks, whereas the superuser account has unrestricted control over the entire machine—called Administrator on Windows and root on Linux. Example: Hackers always try to escalate their privileges from a normal user to root so they can access every file on the system.
 
 
-7. Built-in Windows Management & Security Tools:
+6. Built-in Windows Management & Security Tools:
 Windows includes native tools to monitor and protect the system without needing extra software. Task Manager shows live CPU and RAM usage for running processes, Windows Security scans for malware and viruses, and Windows Defender Firewall blocks unauthorized network traffic across Domain, Private, and Public network profiles.
 
 
