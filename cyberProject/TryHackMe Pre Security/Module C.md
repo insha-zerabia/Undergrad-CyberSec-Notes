@@ -1,4 +1,13 @@
 
+## Module 3: Operating Systems Basics — Student Summary Report
+
+
+# 1. Module Overview
+
+In the Operating Systems Basics module, I learned how an operating system (OS) works as the invisible manager between a computer's physical hardware and the everyday applications we use. Before we can secure a computer or investigate an attack, we need to understand how operating systems control processes, memory, files, and user accounts behind the scenes. Throughout this module, I explored both Windows and Linux, practicing how to navigate a graphical desktop (GUI) as well as how to use the text-based command-line interface (CLI) to search for hidden files, check system health, and inspect running programs.
+
+
+For cybersecurity, understanding operating systems is super important because every attack—whether it is a virus, a stolen password, or a hacker trying to gain admin access—happens inside an OS environment. By learning how privilege levels separate normal apps from the core system, how file permissions work, and how basic security tools like Windows Security and user authentication protect a machine, I now have a much clearer picture of how attackers break into systems and how defenders lock them down.
 
 
 ##
