@@ -16,3 +16,4 @@
 # Room 3 - Linux CLI Basics
 
 <img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/f09faaf5-2fa7-480a-a6fd-0af12b3217fe" />
+<img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/56532f7c-c349-4f69-98bc-399c6dc05a7d" />
